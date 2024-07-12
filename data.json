@@ -2,7 +2,7 @@
     "date": "2024-07-11",
     "stocks": [
         {
-            "ticker": "STOCK01",
+            "ticker": "TATASTEEL",
             "open": 168.54,
             "close": 248.18,
             "high": 459.59,
@@ -10,7 +10,7 @@
             "volume": 1414
         },
         {
-            "ticker": "STOCK02",
+            "ticker": "NATIONALUM",
             "open": 160.54,
             "close": 497.21,
             "high": 443.77,
@@ -18,7 +18,7 @@
             "volume": 1497
         },
         {
-            "ticker": "STOCK03",
+            "ticker": "AVANTEL",
             "open": 205.81,
             "close": 276.6,
             "high": 381.13,
@@ -26,7 +26,7 @@
             "volume": 3637
         },
         {
-            "ticker": "STOCK04",
+            "ticker": "INDIAN ENERGY EX",
             "open": 125.19,
             "close": 396.78,
             "high": 466.94,
@@ -34,7 +34,7 @@
             "volume": 2960
         },
         {
-            "ticker": "STOCK05",
+            "ticker": "NHPC",
             "open": 125.38,
             "close": 216.17,
             "high": 242.69,
@@ -42,7 +42,7 @@
             "volume": 3398
         },
         {
-            "ticker": "STOCK06",
+            "ticker": "ITC",
             "open": 389.11,
             "close": 429.43,
             "high": 197.38,
@@ -50,7 +50,7 @@
             "volume": 9197
         },
         {
-            "ticker": "STOCK07",
+            "ticker": "BPCL",
             "open": 302.76,
             "close": 396.19,
             "high": 352.58,
@@ -58,7 +58,7 @@
             "volume": 8570
         },
         {
-            "ticker": "STOCK08",
+            "ticker": "MAN INFRA",
             "open": 134.84,
             "close": 484.12,
             "high": 350.41,
@@ -66,7 +66,7 @@
             "volume": 2705
         },
         {
-            "ticker": "STOCK09",
+            "ticker": "GOPAL SNACKS",
             "open": 355.99,
             "close": 123.2,
             "high": 123.71,
@@ -74,7 +74,7 @@
             "volume": 8185
         },
         {
-            "ticker": "STOCK10",
+            "ticker": "ORIENTELEC",
             "open": 239.18,
             "close": 143.42,
             "high": 472.5,
@@ -82,7 +82,7 @@
             "volume": 5837
         },
         {
-            "ticker": "STOCK11",
+            "ticker": "FINOTEX CHEM",
             "open": 334.58,
             "close": 434.49,
             "high": 344.56,
@@ -90,7 +90,7 @@
             "volume": 2685
         },
         {
-            "ticker": "STOCK12",
+            "ticker": "ZEEL",
             "open": 148.57,
             "close": 124.48,
             "high": 276.17,
@@ -98,7 +98,7 @@
             "volume": 5636
         },
         {
-            "ticker": "STOCK13",
+            "ticker": "R K SWAMY",
             "open": 221.42,
             "close": 314.12,
             "high": 419.39,
@@ -106,7 +106,7 @@
             "volume": 6485
         },
         {
-            "ticker": "STOCK14",
+            "ticker": "NBCC",
             "open": 198.76,
             "close": 232.81,
             "high": 487.36,
@@ -114,7 +114,7 @@
             "volume": 7245
         },
         {
-            "ticker": "STOCK15",
+            "ticker": "ASHOKA",
             "open": 247.95,
             "close": 301.4,
             "high": 387.44,
@@ -122,7 +122,7 @@
             "volume": 3824
         },
         {
-            "ticker": "STOCK16",
+            "ticker": "BANKBARODA",
             "open": 398.23,
             "close": 289.56,
             "high": 450.12,
@@ -130,7 +130,7 @@
             "volume": 8957
         },
         {
-            "ticker": "STOCK17",
+            "ticker": "MANAPPURAM",
             "open": 274.67,
             "close": 189.29,
             "high": 297.55,
@@ -138,7 +138,7 @@
             "volume": 5384
         },
         {
-            "ticker": "STOCK18",
+            "ticker": "DELTACORP",
             "open": 134.56,
             "close": 358.94,
             "high": 498.27,
@@ -146,7 +146,7 @@
             "volume": 4763
         },
         {
-            "ticker": "STOCK19",
+            "ticker": "FORBES PRECISION",
             "open": 374.56,
             "close": 314.69,
             "high": 251.32,
@@ -154,7 +154,7 @@
             "volume": 2845
         },
         {
-            "ticker": "STOCK20",
+            "ticker": "CASTROL INDIA",
             "open": 257.34,
             "close": 204.87,
             "high": 409.53,
@@ -162,7 +162,7 @@
             "volume": 5263
         },
         {
-            "ticker": "STOCK21",
+            "ticker": "NTPC",
             "open": 407.65,
             "close": 121.41,
             "high": 101.02,
@@ -170,7 +170,7 @@
             "volume": 3591
         },
         {
-            "ticker": "STOCK22",
+            "ticker": "HFCL",
             "open": 124.39,
             "close": 355.9,
             "high": 171.02,
@@ -178,7 +178,7 @@
             "volume": 2562
         },
         {
-            "ticker": "STOCK23",
+            "ticker": "KNR CONSTUCTION",
             "open": 320.91,
             "close": 384.48,
             "high": 206.96,
@@ -186,7 +186,7 @@
             "volume": 2153
         },
         {
-            "ticker": "STOCK24",
+            "ticker": "ONGC",
             "open": 280.54,
             "close": 175.08,
             "high": 408.84,
@@ -194,7 +194,7 @@
             "volume": 9092
         },
         {
-            "ticker": "STOCK25",
+            "ticker": "ASK AUTOMOTIVE",
             "open": 346.79,
             "close": 131.49,
             "high": 150.1,
@@ -202,7 +202,7 @@
             "volume": 7975
         },
         {
-            "ticker": "STOCK26",
+            "ticker": "EIH",
             "open": 290.54,
             "close": 405.58,
             "high": 127.33,
@@ -210,7 +210,7 @@
             "volume": 8390
         },
         {
-            "ticker": "STOCK27",
+            "ticker": "PRICOL LTD",
             "open": 218.64,
             "close": 302.62,
             "high": 412.39,
@@ -218,7 +218,7 @@
             "volume": 5341
         },
         {
-            "ticker": "STOCK28",
+            "ticker": "POWERGRID",
             "open": 349.97,
             "close": 306.23,
             "high": 471.62,
@@ -226,7 +226,7 @@
             "volume": 5530
         },
         {
-            "ticker": "STOCK29",
+            "ticker": "GOKUL AGRO",
             "open": 176.95,
             "close": 127.47,
             "high": 382.47,
@@ -234,7 +234,7 @@
             "volume": 4871
         },
         {
-            "ticker": "STOCK30",
+            "ticker": "BAJAJ CONSUMER",
             "open": 259.88,
             "close": 469.24,
             "high": 171.62,
