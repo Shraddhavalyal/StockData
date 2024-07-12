@@ -1,0 +1,245 @@
+{
+    "date": "2024-07-11",
+    "stocks": [
+        {
+            "ticker": "STOCK01",
+            "open": 168.54,
+            "close": 248.18,
+            "high": 459.59,
+            "low": 220.15,
+            "volume": 1414
+        },
+        {
+            "ticker": "STOCK02",
+            "open": 160.54,
+            "close": 497.21,
+            "high": 443.77,
+            "low": 137.83,
+            "volume": 1497
+        },
+        {
+            "ticker": "STOCK03",
+            "open": 205.81,
+            "close": 276.6,
+            "high": 381.13,
+            "low": 415.99,
+            "volume": 3637
+        },
+        {
+            "ticker": "STOCK04",
+            "open": 125.19,
+            "close": 396.78,
+            "high": 466.94,
+            "low": 411.01,
+            "volume": 2960
+        },
+        {
+            "ticker": "STOCK05",
+            "open": 125.38,
+            "close": 216.17,
+            "high": 242.69,
+            "low": 204.27,
+            "volume": 3398
+        },
+        {
+            "ticker": "STOCK06",
+            "open": 389.11,
+            "close": 429.43,
+            "high": 197.38,
+            "low": 136.08,
+            "volume": 9197
+        },
+        {
+            "ticker": "STOCK07",
+            "open": 302.76,
+            "close": 396.19,
+            "high": 352.58,
+            "low": 219.52,
+            "volume": 8570
+        },
+        {
+            "ticker": "STOCK08",
+            "open": 134.84,
+            "close": 484.12,
+            "high": 350.41,
+            "low": 414.5,
+            "volume": 2705
+        },
+        {
+            "ticker": "STOCK09",
+            "open": 355.99,
+            "close": 123.2,
+            "high": 123.71,
+            "low": 215.89,
+            "volume": 8185
+        },
+        {
+            "ticker": "STOCK10",
+            "open": 239.18,
+            "close": 143.42,
+            "high": 472.5,
+            "low": 267.53,
+            "volume": 5837
+        },
+        {
+            "ticker": "STOCK11",
+            "open": 334.58,
+            "close": 434.49,
+            "high": 344.56,
+            "low": 155.7,
+            "volume": 2685
+        },
+        {
+            "ticker": "STOCK12",
+            "open": 148.57,
+            "close": 124.48,
+            "high": 276.17,
+            "low": 316.93,
+            "volume": 5636
+        },
+        {
+            "ticker": "STOCK13",
+            "open": 221.42,
+            "close": 314.12,
+            "high": 419.39,
+            "low": 189.57,
+            "volume": 6485
+        },
+        {
+            "ticker": "STOCK14",
+            "open": 198.76,
+            "close": 232.81,
+            "high": 487.36,
+            "low": 122.74,
+            "volume": 7245
+        },
+        {
+            "ticker": "STOCK15",
+            "open": 247.95,
+            "close": 301.4,
+            "high": 387.44,
+            "low": 208.13,
+            "volume": 3824
+        },
+        {
+            "ticker": "STOCK16",
+            "open": 398.23,
+            "close": 289.56,
+            "high": 450.12,
+            "low": 134.45,
+            "volume": 8957
+        },
+        {
+            "ticker": "STOCK17",
+            "open": 274.67,
+            "close": 189.29,
+            "high": 297.55,
+            "low": 179.92,
+            "volume": 5384
+        },
+        {
+            "ticker": "STOCK18",
+            "open": 134.56,
+            "close": 358.94,
+            "high": 498.27,
+            "low": 102.39,
+            "volume": 4763
+        },
+        {
+            "ticker": "STOCK19",
+            "open": 374.56,
+            "close": 314.69,
+            "high": 251.32,
+            "low": 120.57,
+            "volume": 2845
+        },
+        {
+            "ticker": "STOCK20",
+            "open": 257.34,
+            "close": 204.87,
+            "high": 409.53,
+            "low": 124.63,
+            "volume": 5263
+        },
+        {
+            "ticker": "STOCK21",
+            "open": 407.65,
+            "close": 121.41,
+            "high": 101.02,
+            "low": 210.68,
+            "volume": 3591
+        },
+        {
+            "ticker": "STOCK22",
+            "open": 124.39,
+            "close": 355.9,
+            "high": 171.02,
+            "low": 289.21,
+            "volume": 2562
+        },
+        {
+            "ticker": "STOCK23",
+            "open": 320.91,
+            "close": 384.48,
+            "high": 206.96,
+            "low": 260.49,
+            "volume": 2153
+        },
+        {
+            "ticker": "STOCK24",
+            "open": 280.54,
+            "close": 175.08,
+            "high": 408.84,
+            "low": 395.05,
+            "volume": 9092
+        },
+        {
+            "ticker": "STOCK25",
+            "open": 346.79,
+            "close": 131.49,
+            "high": 150.1,
+            "low": 493.04,
+            "volume": 7975
+        },
+        {
+            "ticker": "STOCK26",
+            "open": 290.54,
+            "close": 405.58,
+            "high": 127.33,
+            "low": 168.7,
+            "volume": 8390
+        },
+        {
+            "ticker": "STOCK27",
+            "open": 218.64,
+            "close": 302.62,
+            "high": 412.39,
+            "low": 240.69,
+            "volume": 5341
+        },
+        {
+            "ticker": "STOCK28",
+            "open": 349.97,
+            "close": 306.23,
+            "high": 471.62,
+            "low": 403.16,
+            "volume": 5530
+        },
+        {
+            "ticker": "STOCK29",
+            "open": 176.95,
+            "close": 127.47,
+            "high": 382.47,
+            "low": 376.83,
+            "volume": 4871
+        },
+        {
+            "ticker": "STOCK30",
+            "open": 259.88,
+            "close": 469.24,
+            "high": 171.62,
+            "low": 256.19,
+            "volume": 5640
+        }
+    ]
+}
